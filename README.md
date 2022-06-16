@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi <img width="32px" height="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Rafael Dias</h1>
-<h3 align="center">A software engineer and pro skate</h3>
+<h3 align="center">A software engineer and computer science student</h3>
 
 
 ## GitHub Stats
