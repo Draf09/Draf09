@@ -39,17 +39,11 @@ Here are some ideas to get you started:
 
 <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Draf09&theme=github" /> </p>
 
+# Contributions
 
-## Featured Repositories
-<!-- [![JSON Formatter](https://github-readme-stats.vercel.app/api/pin/?username=Draf09&repo=json-formatter&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/json-formatter)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![DC Tokens](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=dc-tokens&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/dc-tokens)
 
-[![SoloAlert](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=soloalert&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/soloalert)
-
-[![Shikijs](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=shikijs&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/shikijs)
-
-[![SoloLearn Code Previewer and Downloader](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=slcodepreview&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/slcodepreview) -->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -85,11 +79,9 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
   </a>
 
-
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
+  </a>  
 
 
   <a href="https://www.python.org" target="_blank">
