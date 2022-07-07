@@ -200,6 +200,4 @@ Here are some ideas to get you started:
 <br><br><br>
 
 
-
-
 - 📫 How to reach me **fontanadias@gmail.com**
