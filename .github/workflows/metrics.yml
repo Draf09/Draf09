@@ -10,7 +10,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Draf09/metrics@latest
+      - uses: Draf09/Draf09@latest
         with:
           # Your GitHub token
           # The following scopes are required:
