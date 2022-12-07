@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: run github metrics image
         id: github_metrics
-        uses: Draf09/Draf09@latest
+        uses: Draf09/Draf09latest
         with:
           # Your GitHub token
           # The following scopes are required:
