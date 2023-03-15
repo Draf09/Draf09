@@ -176,7 +176,12 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://www.aws.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="linux"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"
+      width="40" height="40" />
+  </a>
+
+  <a href="https://www.kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s"
       width="40" height="40" />
   </a>
           
