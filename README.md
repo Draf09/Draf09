@@ -175,6 +175,11 @@ Here are some ideas to get you started:
       width="40" height="40" />
   </a>
 
+  <a href="https://www.aws.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="linux"
+      width="40" height="40" />
+  </a>
+          
 </p>
 
 <h3 align="left">Support Me:</h3>
